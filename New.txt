@@ -4,8 +4,8 @@ Comment
 **     Description:    Get a list of all Active JDE Users for a specific country
 **     Created By:     Christina Edwards, Mary Kay Inc.
 **     Created On:     09/01/2016
-**     Modified By:  
-**     Modified on:
+**     git-libary:     https://github.com/ajmccauley/ACL-Test
+**     Modified on:    9/20/2016
 **     Comment:  
 *******************************************************************************
 END
